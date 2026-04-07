@@ -1,32 +1,48 @@
-<table border="0">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td valign="top" style="padding-top: 15px;">
-<pre style="line-height: 1.1; font-weight: bold;">
-       .---.
-      /     \
-      \.@-@./
-      /`\_/`\
-     //  _  \\
-    | \     )|_
-   /`\_`>  <_/ \
-   \__/'---'\__/
-       <___>
+    <td valign="top">
+<pre style="line-height: 1.0; font-weight: bold; font-size: 16px;">
+       _,.---._
+     .'        `.
+    /            \
+   |              |
+   |      ____    |
+   |     /    \   |
+   |    |      |  |
+   |     \____/   |
+    \        _    /
+     `.    _( )_.'
+       `--'    `
+       
+    <b>D E B I A N</b>
 </pre>
     </td>
-    <td valign="top" style="padding-left: 30px;">
-      <h2>Hi there 👋 I'm Abraham</h2>
-      <p>📚 <b>Education:</b> 7th Grade Student</p>
-      <p>💻 <b>OS:</b> Windows 11 Home</p>
-      <p>🎯 <b>Ambition:</b> Prompt Engineer</p>
-      <p>🤖 <b>Go-to AI:</b> Gemini</p>
-      <p>🛠️ <b>Tools:</b> Cursor</p>
+
+    <td valign="top" style="padding-left: 50px;">
+      <h2 style="margin-top: 0;">abraham@debian-terminal</h2>
+      <hr>
+      <pre style="font-family: 'Courier New', Courier, monospace; line-height: 1.6;">
+<b>Operating Sys:</b> Debian 🌀
+<b>Education:</b>     7th Grade Student
+<b>Ambition:</b>      Prompt Engineer 🎯
+<b>Go-to AI:</b>      Gemini 🤖
+<b>IDE:</b>           VS Code
+<b>Tools:</b>         Cursor, Antigravity
+
+<b>Languages:</b>
+- Python (Basic sense)
+- HTML (Basic sense)
+
+<b>Hardware_Info:</b>
+- Host: Asus Vivobook Go 14
+- CPU:  Intel Core i3-N305
+- RAM:  8GB
+      </pre>
       <br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,html,linux&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=linux,py,html&theme=dark" />
       </a>
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/CyberDev/your_username/main/antigravity.png" alt="AntiGravity" width="48" height="48" style="vertical-align: top; margin-top: -1px; margin-left: -5px;" />
-      </a>
+      <img src="https://img.shields.io/badge/Antigravity-6B46C1?style=for-the-badge&logo=rocket&logoColor=white" valign="top" />
     </td>
   </tr>
 </table>
