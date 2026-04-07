@@ -2,19 +2,15 @@
   <tr>
     <td valign="top" style="padding-top: 15px;">
 <pre style="line-height: 1.1; font-weight: bold;">
-          _,.---._
-        .'        `.
-       /            \
-      |              |
-      |      ____    |
-      |     /    \   |
-      |    |      |  |
-      |     \____/   |
-       \        _    /
-        `.    _( )_.'
-          `--'    `
-
-      [---D-E-B-I-A-N---]
+       .---.
+      /     \
+      \.@-@./
+      /`\_/`\
+     //  _  \\
+    | \     )|_
+   /`\_`>  <_/ \
+   \__/'---'\__/
+       <___>
 </pre>
     </td>
     <td valign="top" style="padding-left: 30px;">
@@ -23,15 +19,14 @@
       <p>💻 <b>OS:</b> Windows 11 Home</p>
       <p>🎯 <b>Ambition:</b> Prompt Engineer</p>
       <p>🤖 <b>Go-to AI:</b> Gemini</p>
-      <p>🛠️ <b>Tools:</b> AntiGravity, Cursor</p>
+      <p>🛠️ <b>Tools:</b> Cursor</p>
       <br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,html,js,linux,mysql,nestjs,nextjs,nodejs,cpp,arduino,android&perline=6" />
+        <img src="https://skillicons.dev/icons?i=py,html,linux&theme=dark" />
       </a>
-      <div style="margin-top: 10px;">
-        <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-        <img src="https://img.shields.io/badge/AntiGravity-6B46C1?style=for-the-badge&logo=rocket&logoColor=white" alt="AntiGravity" />
-      </div>
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/CyberDev/your_username/main/antigravity.png" alt="AntiGravity" width="48" height="48" style="vertical-align: top; margin-top: -1px; margin-left: -5px;" />
+      </a>
     </td>
   </tr>
 </table>
