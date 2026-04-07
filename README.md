@@ -1,4 +1,4 @@
-## Hi I'm Abraham. I'm an AI and Hacking enthusiast. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
+## Hi I'm Abraham. I'm an AI and Hacking enthusiast. 👋
 
 Here are some things about me-
 
